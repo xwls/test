@@ -83,6 +83,28 @@ rtp://239.253.238.59:8000?fcc=124.132.240.66:15970
 rtp://239.253.238.166:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="山东海洋频道" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东海洋频道.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch22111116270462496793.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800" , 山东海洋频道
 rtp://239.253.238.67:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东居家购物" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东居家购物.png" , 山东居家购物
+rtp://239.253.238.104:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="临沂综合" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/临沂综合.png" , 临沂综合
+rtp://239.253.238.253:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="河东综合" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/河东综合.png" , 河东综合
+rtp://239.253.238.242:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="兰陵综合" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/兰陵综合.png" , 兰陵综合
+rtp://239.253.238.250:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="兰陵公共" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/兰陵公共.png" , 兰陵公共
+rtp://239.253.238.243:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="临沭综合" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/临沭综合.png" , 临沭综合
+rtp://239.253.238.241:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="莒南综合" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/莒南综合.png" , 莒南综合
+rtp://239.253.238.244:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="沂南综合" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/沂南综合.png" , 沂南综合
+rtp://239.253.238.245:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="沂水综合" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/沂水综合.png" , 沂水综合
+rtp://239.253.238.247:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="沂水生活" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/沂水生活.png" , 沂水生活
+rtp://239.253.238.248:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="蒙阴综合" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/蒙阴综合.png" , 蒙阴综合
+rtp://239.253.238.249:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CHC家庭影院.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch18120514091718394256.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800" , CHC家庭影院
 rtp://239.253.238.152:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CHC动作电影.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch18120514100139517699.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800" , CHC动作电影
@@ -331,3 +353,9 @@ rtp://239.253.238.164:8000?fcc=124.132.240.66:15970
 rtp://239.253.238.157:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="环球旅游" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/环球旅游.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch22122209125585392509.rsc?tvdr=${(b)yyyyMMddHHmmss}GMT-${(e)yyyyMMddHHmmss}GMT&r2h-seek-offset=-28800" , 环球旅游
 rtp://239.253.238.71:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="重温经典影视" group-title="其他频道" , 重温经典影视
+rtp://239.253.238.81:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="红色影视" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/红色影院.png" , 红色影视
+rtp://239.253.238.246:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="九宫格" group-title="其他频道" , 九宫格
+rtp://239.253.238.167:8000?fcc=124.132.240.66:15970
